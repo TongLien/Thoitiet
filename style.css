@@ -1,0 +1,26 @@
+.khung{
+    margin-left: 600px;
+    display: flex;
+    background-color: aquamarine;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 250px;
+    width: 650px;
+}
+.fac{
+    display: flex;
+    flex-direction: row;
+}
+.t{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.am{
+    margin-left: 90px;
+    margin-right: 50px;
+}
+.wdr{
+    margin-left: 90px;
+    margin-right: 50px;
+}
